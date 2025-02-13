@@ -21,35 +21,9 @@ Welcome to the Chat Application! This is a full-stack project built using React.
 **Sign up**
 ![Sign up](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146231/lxipjhn3pdvkf5h6it98.png)
 
-**Users Chat**
-![home](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689145934/ipqp3jb0qyb32nip6osj.png)
 
 **User Profile**
 ![user_profile](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146213/wvyx7ndxisaxpkgopxnh.png)
-
-**Search User**
-![search_user](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146068/utilpiyhlxikhju36c7d.png)
-
-**Notfication**
-![notification](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146057/b85aapingyke67r41vvb.png)
-
-**Create Group**
-![create_group](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689145950/afzfrs7dxuxij2z24vgy.png)
-
-**Group Information**
-![group_information](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689145976/bd8wyctt2tw4ukgwuoht.png)
-
-**Group Admin Options**
-![group_admin_option](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146029/rbkuo9dgrym9y3ayymz4.png)
-
-**Change Group Name Only For Admin**
-![rename](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146017/da8y031jf7twpxlp2ipy.png)
-
-**Remove User From Group Only For Admin**
-![remove_user](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146005/ymitbkdkz2mlfvrb9gvl.png)
-
-**Add Users To Group Only For Admin**
-![Add_user](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1690197588/lehnw0hfqfnxu8ktajys.png)
 
 
 
