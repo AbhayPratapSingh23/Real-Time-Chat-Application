@@ -1,10 +1,6 @@
 # Chat Application
 
-<a href="https://chat-app-ca.netlify.app/" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Want to see live preview »&color=1BB91F&logo=Bluefly&logoColor=FFFFFF&label=" alt="Bluefly-Clone" />
-        </a>
-
-  Welcome to the Chat Application! This is a full-stack project built using React.js, Node.js, Express.js, MongoDB, Tailwind CSS, and Redux. The application provides an intuitive and user-friendly interface for users to engage in real-time conversations with others. It incorporates a range of features such as sign up, sign in, logout, profile image customization, user search, one-to-one chat, group creation, group chat, group administration, and message notifications.
+Welcome to the Chat Application! This is a full-stack project built using React.js, Node.js, Express.js, MongoDB, Tailwind CSS, and Redux. The application provides an intuitive and user-friendly interface for users to engage in real-time conversations with others. It incorporates a range of features such as sign up, sign in, logout, profile image customization, user search, one-to-one chat, group creation, group chat, group administration, and message notifications.
 
 ## Features
 - **User Authentication**: Users can sign up for an account, log in, and log out securely.
