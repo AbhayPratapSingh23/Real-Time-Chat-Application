@@ -25,12 +25,6 @@
 **Sign up**
 ![Sign up](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146231/lxipjhn3pdvkf5h6it98.png)
 
-**Sign in**
-![Sign In](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146246/pntbaaigxkup1puqgjwa.png)
-
-**Home**
-![home](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146043/p7obaxsyrz5l074jkyj7.png)
-
 **Users Chat**
 ![home](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689145934/ipqp3jb0qyb32nip6osj.png)
 
@@ -81,17 +75,15 @@
 
 <h1> Team Members </h1>
 <ul> 
-<li> Mukul Jatav </li>
+<li> Abhay Pratap Singh </li>
 </ul>
 
 
 <h2><i>Let's Connect</i></h2>
 <p align="left">
-    <a href="https://www.linkedin.com/in/mukul-jatav/">
+    <a href="https://www.linkedin.com/in/abhay-pratap-singh-589b73266/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/mukul-jatav/" />
     </a>
 </p>
 
-<h1> Show Your Support </h1>
-<h4> Give a ⭐️ if you like this project! </h4>
 
